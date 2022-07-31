@@ -1,7 +1,7 @@
 galaxy_info:
-  author: 'PaulIceman'
-  description: 'Solutions Architect'
-  company: 'your company (optional)'
+  author: PaulIceman
+  description: Solutions Architect
+  company: your company (optional)
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
@@ -28,9 +28,9 @@ galaxy_info:
   # https://galaxy.ansible.com/api/v1/platforms/
   #
    platforms:
-   - name: Debian
-     versions:
-       - all
+    - name: Debian
+      versions:
+        - all
   #   - 25
   # - name: SomePlatform
   #   versions:
